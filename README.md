@@ -1,2 +1,2 @@
 # test
-Trying out git
+Master branch - trying out git.
